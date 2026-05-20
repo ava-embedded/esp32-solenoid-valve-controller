@@ -20,18 +20,15 @@ Built a diagnostic and control system that allows technicians to:
 - Custom PCB (designed in EasyEDA, manufactured)
 - ESP32 microcontroller
 - Pneumatic solenoid valves
-- OPC-UA integration with industrial PLCs
 
 ## Features
 - ESP32 hosted in AP mode — no router needed
 - Web interface accessible from any device on the local network
 - Configurable solenoid valve combinations to simulate filling phases
-- ISA-standard instrumentation documentation
 
 ## Tech Stack
 - Firmware: C++
 - Web Interface: HTML / JavaScript
-- Protocol: OPC-UA
 - PCB Design: EasyEDA
 
 ## Photos
